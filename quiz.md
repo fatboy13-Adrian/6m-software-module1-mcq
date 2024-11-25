@@ -67,8 +67,8 @@
 ### Q12: Which of the following is not an Agile framework?
 - A: Scrum
 - B: Kanban
-- C: Lean (correct answer)
-- D: None of the above
+- C: Lean 
+- D: None of the above (correct answer)
 
 ### Q13: Which SCRUM event focuses on how the last Sprint went with regards to individuals, interactions, processes, tools, and their Definition of Done?
 - A: Sprint Planning
@@ -78,8 +78,8 @@
 
 ### Q14: Which SCRUM event focuses on inspecting progress toward the Sprint Goal and adjusting the upcoming planned work as necessary?
 - A: Sprint Planning 
-- B: Daily Scrum
-- C: Sprint Review (correct answer)
+- B: Daily Scrum (correct answer)
+- C: Sprint Review 
 - D: Sprint Retrospective
 
 ### Q15: Which member of the Scrum team is accountable for effective Product Backlog management?
